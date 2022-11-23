@@ -1,1 +1,0 @@
-# Ajax ile HTTP Requestleri
